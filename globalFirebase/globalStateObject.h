@@ -1,6 +1,7 @@
 #define timeSeconds 10
 
 const int relayPin = 32;
+const int switchPin = 34;
 
 int relayStatus;
 int appStatus;
