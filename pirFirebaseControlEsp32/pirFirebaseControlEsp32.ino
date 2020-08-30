@@ -1,4 +1,4 @@
-/**** RELAY CONTROL CODE *****/
+/**** PIR OUTPUT CODE *****/
 
 #include <FirebaseESP32HTTPClient.h>
 #include <FirebaseJson.h>
